@@ -191,19 +191,7 @@ section {
   margin-bottom: 2em;
 }
 
-@media only screen and (max-width: 495px) {
-  .nav {
-    display: none;
-  }
-  .logo {
-    text-align: center;
-    margin-left: 5em;
-  }
-  header {
-    display: flex;
-    align-items: center;
-  }
-}
+
 
 @media only screen and (min-width: 800px) {
   .featured,
